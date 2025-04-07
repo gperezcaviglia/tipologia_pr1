@@ -1,4 +1,4 @@
-# 🎬 Análisis de Puntuaciones Cinematográficas en Multiplataformas
+# 🎬 Análisis de puntuaciones cinematográficas en multiplataformas
 
 ## 📌 Descripción del proyecto
 
