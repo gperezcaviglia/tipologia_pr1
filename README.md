@@ -35,7 +35,7 @@ El proyecto incluye una **interfaz web interactiva** que:
 
 
 ## Integrantes del grupo
-- Gabriela Alejandra Pérez Caviglia
+- Gabriela Alejandra Pérez
 - María José de León Díaz
 
 ## Estructura del repositorio
