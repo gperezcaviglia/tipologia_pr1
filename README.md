@@ -41,11 +41,11 @@ El proyecto incluye una **interfaz web interactiva** que:
 ## Estructura del repositorio
 
 Este repositorio contiene los siguientes archivos y carpetas:
-
-- `script.py`: Script principal del proyecto.
-- `datos/`: Carpeta que contiene los datos de entrada utilizados por el script.
-- `output/`: Carpeta donde se guardan los resultados generados.
 - `README.md`: Este documento con información general del repositorio.
+- `requirements.txt`: con las librerías necesarias para ejecutar el código
+- `source/`: Carpeta que contiene los ficheros con el código del proyecto.
+- `dataset/`: Carpeta donde se guarda el fichero final obtenido.
+
 
 ## Cómo usar el código
 
