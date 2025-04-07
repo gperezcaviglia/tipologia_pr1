@@ -97,7 +97,7 @@ Puedes ver un ejemplo en:
 ## 📄 DOI
 
 El dataset completo está disponible con el siguiente DOI:  
-**[numeroaquí]**
+**(https://doi.org/10.5281/zenodo.15170924)**
 
 
 ## 📝 Licencia
