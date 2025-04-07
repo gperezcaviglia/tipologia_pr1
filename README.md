@@ -59,5 +59,51 @@ El proyecto incluye una interfaz web interactiva y responsiva que:
 - Gabriela Alejandra Pérez  
 - María José de León Díaz
 
-## 📁 Estructura del repositorio
+## 🔍 Paso 1: Extracción de datos de FilmAffinity
+
+Ejecuta el notebook `paso01_filmaffinity_elige_rango.ipynb` y sigue las instrucciones interactivas para configurar:
+
+- Tipo de extracción (prueba o completa)
+- Rango de años (5 o 10)
+- Año de inicio (desde 1980)
+- Número de películas por año
+
+Se generará un archivo `.xlsx` con los datos.
+
+
+## 🔗 Paso 2: Enriquecimiento con datos de IMDb
+
+Ejecuta el notebook `paso02_imdb_con_rango.ipynb`:
+
+- Selecciona el archivo Excel generado en el paso anterior.
+- El script realizará búsquedas automáticas en IMDb.
+- Se generará un nuevo archivo `.xlsx` y `.csv` con los datos enriquecidos.
+
+
+## 🌐 Paso 3: Visualización web
+
+Para visualizar los datos mediante la interfaz web:
+
+1. Coloca el archivo `index.php` y los archivos `.csv` generados en un servidor PHP.
+2. Accede a la URL correspondiente para explorar los datos.
+
+
+## 📊 Visualización online
+
+Puedes ver un ejemplo en:  
+[http://gperezcaviglia.com/pec2/index.php](http://gperezcaviglia.com/pec2/index.php)
+
+
+## 📄 DOI
+
+El dataset completo está disponible con el siguiente DOI:  
+**[numeroaquí]**
+
+
+## 📝 Licencia
+
+Este proyecto está licenciado bajo **Creative Commons BY-NC-SA 4.0**.  
+Consulta más en:  
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
