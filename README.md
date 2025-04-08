@@ -41,7 +41,7 @@ Los resultados se exportan en dos formatos:
 Para visualizar los datos mediante la interfaz web:
 
 1. Coloca el archivo `index.php` y los archivos `.csv` generados en un servidor PHP.
-2. Accede a la URL correspondiente para explorar los datos.
+2. Se accede a la URL correspondiente para explorar los datos.
 
 
 ### 📊 Visualización online
